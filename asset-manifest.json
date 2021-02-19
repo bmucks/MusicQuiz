@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bmucks/MusicQuiz/static/css/main.5ece1f89.chunk.css",
+    "main.js": "/bmucks/MusicQuiz/static/js/main.829981a8.chunk.js",
+    "main.js.map": "/bmucks/MusicQuiz/static/js/main.829981a8.chunk.js.map",
+    "runtime-main.js": "/bmucks/MusicQuiz/static/js/runtime-main.0fe132b4.js",
+    "runtime-main.js.map": "/bmucks/MusicQuiz/static/js/runtime-main.0fe132b4.js.map",
+    "static/js/2.c9a7d27d.chunk.js": "/bmucks/MusicQuiz/static/js/2.c9a7d27d.chunk.js",
+    "static/js/2.c9a7d27d.chunk.js.map": "/bmucks/MusicQuiz/static/js/2.c9a7d27d.chunk.js.map",
+    "static/js/3.05012b51.chunk.js": "/bmucks/MusicQuiz/static/js/3.05012b51.chunk.js",
+    "static/js/3.05012b51.chunk.js.map": "/bmucks/MusicQuiz/static/js/3.05012b51.chunk.js.map",
+    "index.html": "/bmucks/MusicQuiz/index.html",
+    "static/css/main.5ece1f89.chunk.css.map": "/bmucks/MusicQuiz/static/css/main.5ece1f89.chunk.css.map",
+    "static/js/2.c9a7d27d.chunk.js.LICENSE.txt": "/bmucks/MusicQuiz/static/js/2.c9a7d27d.chunk.js.LICENSE.txt",
+    "static/media/D.979a30ba.mp3": "/bmucks/MusicQuiz/static/media/D.979a30ba.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fe132b4.js",
+    "static/js/2.c9a7d27d.chunk.js",
+    "static/css/main.5ece1f89.chunk.css",
+    "static/js/main.829981a8.chunk.js"
+  ]
+}
